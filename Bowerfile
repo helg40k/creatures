@@ -1,0 +1,5 @@
+asset 'angular'
+asset 'bootstrap-sass-official'
+asset 'moment'
+asset 'underscore'
+asset 'paper'
